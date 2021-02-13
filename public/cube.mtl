@@ -1,0 +1,9 @@
+# FreeCAD v0.18 build16146 (Git) Arch module
+# http://www.freecadweb.org
+# define a material named 'color_cccccc'
+newmtl color_cccccc
+# diffuse color
+Kd 0.8 0.8 0.8
+# A value of 1.0 for "d" is the default and means fully opaque
+d 0
+# Material Count: 1
